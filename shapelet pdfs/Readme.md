@@ -1,4 +1,4 @@
-#Order to read the articles:
+# Order to read the articles:
 
   1.Time Series Shapelets A New Primitive for Data Mining.pdf
     Introduces shaplets
